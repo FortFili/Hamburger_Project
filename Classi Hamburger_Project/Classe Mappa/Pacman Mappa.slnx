@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Pacman Mappa/Pacman Mappa.vcxproj" />
+  <Project Path="Pacman Mappa/Pacman Mappa.vcxproj" Id="2de43fcc-9631-4577-9ea9-0229a7cf584c" />
 </Solution>
