@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: riferimento al simbolo esterno "public: __cdecl fantasma::fantasma(void)" (??0fantasma@@QEAA@XZ) non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl fantasma::toString(void)" (?toString@fantasma@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) non risolto nella funzione main
+C:\Users\siron\Desktop\scuola\c++\pac-man (classe fantasma)\x64\Debug\pac-man (classe fantasma).exe : fatal error LNK1120: 2 esterni non risolti
