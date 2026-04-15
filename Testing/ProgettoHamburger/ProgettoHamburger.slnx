@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ProgettoHamburger/ProgettoHamburger.vcxproj" />
+  <Project Path="ProgettoHamburger/ProgettoHamburger.vcxproj" Id="6f81a991-eb10-4716-8215-5aa8abd35270" />
 </Solution>
