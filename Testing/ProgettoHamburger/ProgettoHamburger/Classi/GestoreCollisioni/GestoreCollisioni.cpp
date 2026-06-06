@@ -1,4 +1,4 @@
-#include "Classi/GestoreCollisioni/GestoreCollisioni.h"
+#include "GestoreCollisioni.h"
 
 void GestoreCollisioni::controllaMappa(Pacman& pacman, Mappa& mappa, int& timerSpavento, fantasma fantasmi[], int numFantasmi)
 {

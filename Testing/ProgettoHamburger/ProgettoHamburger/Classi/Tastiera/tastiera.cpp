@@ -1,4 +1,4 @@
-#include "Classi/Tastiera/Tastiera.h"
+#include "Tastiera.h"
 
 char Tastiera::normalizzaTasto(char input)
 {

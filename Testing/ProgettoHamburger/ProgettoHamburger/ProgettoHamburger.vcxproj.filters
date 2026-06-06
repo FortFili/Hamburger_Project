@@ -50,9 +50,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>File di origine</Filter>
-    </ClCompile>
     <ClCompile Include="Classi\Fantasmi\Fantasima.cpp">
       <Filter>File di origine\Classi</Filter>
     </ClCompile>
@@ -69,13 +66,16 @@
       <Filter>File di origine\Classi</Filter>
     </ClCompile>
     <ClCompile Include="Campo.cpp">
-      <Filter>File di origine</Filter>
-    </ClCompile>
-    <ClCompile Include="GestoreCollisioni.cpp">
-      <Filter>File di origine</Filter>
+      <Filter>File di origine\Classi</Filter>
     </ClCompile>
     <ClCompile Include="GameEngine.cpp">
-      <Filter>File di origine</Filter>
+      <Filter>File di origine\Classi</Filter>
+    </ClCompile>
+    <ClCompile Include="GestoreCollisioni.cpp">
+      <Filter>File di origine\Classi</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>File di origine\Classi</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

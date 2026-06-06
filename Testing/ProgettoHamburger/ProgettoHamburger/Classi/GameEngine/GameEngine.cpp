@@ -1,4 +1,4 @@
-#include "Classi/GameEngine/GameEngine.h"
+#include "GameEngine.h"
 
 GameEngine::GameEngine() : mappa(25, 12), mappa_w(25), mappa_h(12), giocatore(1, 1)
 {
