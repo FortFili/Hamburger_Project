@@ -36,6 +36,18 @@
     <ClInclude Include="Classi\PacMan\pacman.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
+    <ClInclude Include="Tastiera.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Campo.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="GestoreCollisioni.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -52,6 +64,18 @@
     </ClCompile>
     <ClCompile Include="Classi\PacMan\pacman.cpp">
       <Filter>File di origine\Classi</Filter>
+    </ClCompile>
+    <ClCompile Include="tastiera.cpp">
+      <Filter>File di origine\Classi</Filter>
+    </ClCompile>
+    <ClCompile Include="Campo.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="GestoreCollisioni.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
+      <Filter>File di origine</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

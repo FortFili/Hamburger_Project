@@ -127,18 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Campo.h" />
     <ClInclude Include="Classi\Fantasmi\Fantasma.h" />
     <ClInclude Include="Classi\Hamburger\Hamburger.h" />
     <ClInclude Include="Classi\Mappa\color.h" />
     <ClInclude Include="Classi\Mappa\mappa.h" />
     <ClInclude Include="Classi\PacMan\pacman.h" />
+    <ClInclude Include="GameEngine.h" />
+    <ClInclude Include="GestoreCollisioni.h" />
+    <ClInclude Include="Tastiera.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Campo.cpp" />
     <ClCompile Include="Classi\Fantasmi\Fantasima.cpp" />
     <ClCompile Include="Classi\Hamburger\Hamburger.cpp" />
     <ClCompile Include="Classi\Mappa\mappa.cpp" />
     <ClCompile Include="Classi\PacMan\pacman.cpp" />
+    <ClCompile Include="GameEngine.cpp" />
+    <ClCompile Include="GestoreCollisioni.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="tastiera.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
